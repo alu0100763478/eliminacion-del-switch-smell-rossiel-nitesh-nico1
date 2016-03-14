@@ -1,13 +1,11 @@
-(function(exports) {
-  "use strict";
-  
-  function Metros(valor)
+function Metros(valor)
   {
-    Medida.call(this, valor);
+    Medida.call(this, valor, "M");
   }
-  
+
   Metros.prototype = new Metros();
   Metros.prototype.constructor = Metros;
+  Medida.measures.m = Metros;
 
   Metros.prototype.toPulgadas = function ()
   {
@@ -15,5 +13,3 @@
     resultado = resultado.toFixed(2) + " Pulgadas";
     return resultado;
   };
-  
-})(this);   

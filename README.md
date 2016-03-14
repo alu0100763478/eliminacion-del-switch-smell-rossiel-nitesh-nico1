@@ -1,9 +1,6 @@
-# Práctica: Eliminación del Switch Smell
+# Práctica OOP en JS
 
-En la práctica anterior modificamos el código del conversor de temperaturas para que usara objetos y herencia. En esta práctica se tratarán las debilidades del código de la práctica anterior tales como:
-  * Utilización de los Switch
-  * Todas las clases están recogidas en un mismo fichero
-  * Expresión regular no optimizada
+Este repositorio aloja la práctica de conversión de tipos, realizada con html, css y javascript, usando POO y haciendo uso de la herencia en javascript.
 
 ### Participantes:
 
@@ -15,12 +12,12 @@ En la práctica anterior modificamos el código del conversor de temperaturas pa
 
 ### Página de la práctica(.io):
 
-[Práctica 4](http://ull-esit-gradoii-dsi.github.io/eliminacion-del-switch-smell-rossiel-nitesh-nico1/)
+[Práctica 3](http://ull-esit-gradoii-dsi.github.io/object-oriented-programming-in-js-rossiel-nitesh-nico/)
 
 ### Enlace al repositorio git de la práctica:
 
-[Eliminación del Switch Smell](https://github.com/ULL-ESIT-GRADOII-DSI/eliminacion-del-switch-smell-rossiel-nitesh-nico1)
+[OOP-JS](https://github.com/ULL-ESIT-GRADOII-DSI/object-oriented-programming-in-js-rossiel-nitesh-nico)
 
 ### Enlace al Campus Virtual de la asignatura:
 
-[Campus Virtual](https://campusvirtual.ull.es/1516/mod/page/view.php?id=180154)
+[Campus Virtual](https://campusvirtual.ull.es/1516/course/view.php?id=144)
